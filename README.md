@@ -2,8 +2,6 @@
 
 This font was created to introduce the Asterum language to the people of Earth. This font was specifically created for the [Asterum Input](https://github.com/yumenohosi/asterum-input) project, a text converter between Korean and Asterum language.
 
-![Asterum Font Demo](./demo/font_demo.png)
-
 ## Features
 - Modern and distinctive design
 - Optimized for web projects
@@ -31,7 +29,8 @@ Or import in your CSS file:
 
 ## Usage
 - Open `demo.html` to see all available glyphs and their corresponding codes
-- Each icon's character can be copied from the text box at the bottom right of each glyph in demo.html
+
+![Asterum Font Demo](./demo/font_demo.png)
 
 ## Project Structure
 ```
