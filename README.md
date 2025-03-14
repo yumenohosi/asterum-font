@@ -45,8 +45,6 @@ asterum-font/
 ## License
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## Author
 [Park Daesun](https://github.com/yumenohosi)
