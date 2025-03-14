@@ -2,7 +2,7 @@
 
 This font was created to introduce the Asterum language to the people of Earth. This font was specifically created for the [Asterum Input](https://github.com/yumenohosi/asterum-input) project, a text converter between Korean and Asterum language.
 
-![Asterum Font Demo](./images/font_demo.png)
+![Asterum Font Demo](./demo/font_demo.png)
 
 ## Features
 - Modern and distinctive design
