@@ -36,7 +36,7 @@ Or import in your CSS file:
 ```
 asterum-font/
 ├── fonts/         # Font files
-├── demo-files/    # Demo-related files
+├── demo/          # Demo-related image file
 ├── demo.html      # Font preview and usage guide
 ├── selection.json # IcoMoon project file
 └── style.css      # Stylesheet for web usage
